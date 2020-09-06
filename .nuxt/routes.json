@@ -1,0 +1,16 @@
+[
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "/Users/m.perez.hernandez/Documents/nuxt/pages/contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_07f9408a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/m.perez.hernandez/Documents/nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_cfa243fa"
+  }
+]
