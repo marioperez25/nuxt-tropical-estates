@@ -1,5 +1,6 @@
 export default {
     components: true,
+    target: 'static',
     modules: [
         'bootstrap-vue/nuxt'
     ],
