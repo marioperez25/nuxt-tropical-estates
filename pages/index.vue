@@ -1,13 +1,7 @@
 <template>
   <main>
-    <h1>Home page</h1>
-    <NuxtLink to="/">Home page</NuxtLink>
-    <NuxtLink to="/contact-us">Contact Us</NuxtLink>
-    <MountainsList />
+    <MainNavigation></MainNavigation>
+    <HomePageBanner></HomePageBanner>
   </main>
+
 </template>
-
-<script>
-
-
-</script>

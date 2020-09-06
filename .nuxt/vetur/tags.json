@@ -1,8 +1,20 @@
 {
-  "MountainList": {
-    "description": "Auto imported from components/MountainList.vue"
+  "ContactUsForm": {
+    "description": "Auto imported from components/ContactUsForm.vue"
   },
-  "LazyMountainList": {
-    "description": "Auto imported from components/MountainList.vue"
+  "LazyContactUsForm": {
+    "description": "Auto imported from components/ContactUsForm.vue"
+  },
+  "HomePageBanner": {
+    "description": "Auto imported from components/HomePageBanner.vue"
+  },
+  "LazyHomePageBanner": {
+    "description": "Auto imported from components/HomePageBanner.vue"
+  },
+  "MainNavigation": {
+    "description": "Auto imported from components/MainNavigation.vue"
+  },
+  "LazyMainNavigation": {
+    "description": "Auto imported from components/MainNavigation.vue"
   }
 }
